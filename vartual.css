@@ -277,7 +277,7 @@
             justify-content: center;
             align-items: center;
             text-align: justify;
-            position: relative;
+            position: relative;top:30%;
         }
         .invite-users-content-box p {
             width: 100%;
