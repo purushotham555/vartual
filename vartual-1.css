@@ -312,8 +312,7 @@
                     position: relative;
                     align-items: center;
                     flex-wrap: wrap;
-                    top: 30%;
-                    left: 2.5%;
+                    left: 2.5%;height:100%;
                 }
                 
                 .invite-users-content-box p {
@@ -338,7 +337,7 @@
                         text-align: justify;
                         position: relative;
                         left: 0%;
-                        width: 100%;
+                        width: 100%;heiht
                         top: 25%;
                         background-image: linear-gradient(to right top, #b852cd, #986ae0, #747ceb, #4b8aee, #1296eb);
                     }
